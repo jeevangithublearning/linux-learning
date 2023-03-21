@@ -1,0 +1,12 @@
+git status
+git add
+git checkout branch
+git commit -m 
+git init
+git push
+git pull
+git branch
+git tag
+git tag -d 
+
+

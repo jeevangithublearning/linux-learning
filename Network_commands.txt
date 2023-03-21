@@ -1,0 +1,11 @@
+ip
+ifconfig
+telnet
+route
+traceroute
+ping
+dig
+wget
+crul
+ssh
+scp
