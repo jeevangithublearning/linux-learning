@@ -1,0 +1,16 @@
+ls
+ls -al
+ls -lrt
+mkdir
+touch
+cat
+echo
+vi
+rm
+rmdir
+du -sh
+df -h
+pwd
+
+
+
