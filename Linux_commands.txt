@@ -11,6 +11,9 @@ rmdir
 du -sh
 df -h
 pwd
-
+History
+head
+tail
+grep
 
 
