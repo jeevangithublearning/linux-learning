@@ -15,5 +15,6 @@ History
 head
 tail
 grep
+awk
 
 
